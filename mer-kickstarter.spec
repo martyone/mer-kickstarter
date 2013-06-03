@@ -15,7 +15,7 @@ Release:    2
 Group:      System/Base
 License:    GPLv2
 BuildArch:  noarch
-URL:        http://www.merproject.org
+URL:        https://github.com/mer-tools/mer-kickstarter
 Source0:    kickstarter.tar.bz2
 Source100:  mer-kickstarter.yaml
 Requires:   python-yaml

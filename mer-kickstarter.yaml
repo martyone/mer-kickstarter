@@ -4,7 +4,7 @@ Version: 0.19
 Release: 2
 Group: System/Base
 License: GPLv2
-URL: http://www.merproject.org
+URL: https://github.com/mer-tools/mer-kickstarter
 Sources:
   - kickstarter.tar.bz2
 Description: Create Configuration files to build Mer images
